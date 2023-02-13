@@ -11,19 +11,19 @@
   <title>{{ title }}</title>
 
   <!-- Bootstrap core CSS -->
-  <link href="site/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="../static/bootstrap/css/bootstrap.css" rel="stylesheet">
 
   <!-- Custom fonts -->
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
   <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
 
   <!-- Plugin CSS -->
-  <link href="site/vendor/magnific-popup/magnific-popup.css" rel="stylesheet" type="text/css">
+  <link href="../static/magnific-popup/magnific-popup.css" rel="stylesheet" type="text/css">
 
   <!-- Custom styles used -->
-  <link href="site/static/css/layout.css" rel="stylesheet">
-  <link href="site/static/css/colorful.css" rel="stylesheet">
-  <link rel="shortcut icon" href="site/img/favicon.ico">
+  <link href="../static/css/layout.css" rel="stylesheet">
+  <link href="../static/css/colorful.css" rel="stylesheet">
+  <link rel="shortcut icon" href="../static/img/icon.ico">
 
   <!-- Google analytics plugin -->
   <script>
@@ -44,7 +44,7 @@
   <nav class="navbar navbar-expand-lg bg-secondary fixed-top " id="mainNav">
     <div class="container">
       <a class="navbar-brand js-scroll-trigger text-white" href="#page-top">
-        <img src="site/img/logo.jpg" width="50" height="50">  TechUpdates Hub</a>
+        <img src="../static/img/logo.jpg" width="50" height="50">  TechUpdates Hub</a>
       <button class="navbar-toggler navbar-toggler-right text-uppercase bg-primary text-white rounded" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         Menu
         <i class="fas fa-bars"></i>
@@ -55,13 +55,13 @@
             <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#">Home</a>
           </li>
           <li class="nav-item mx-0 mx-lg-1">
-            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="./index.html">Articles</a>
+            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="./articles.html">Articles</a>
           </li>
           <li class="nav-item mx-0 mx-lg-1">
             <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="./aboutus.html">About Us</a>
           </li>
           <li class="nav-item mx-0 mx-lg-1">
-            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#">Contact</a>
+            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#">Contact Us</a>
           </li>
           <li class="nav-item mx-0 mx-lg-1">
             <a class="nav-link py-3 px-0 px-lg-3 rounded" href="#">Report a problem</a>
@@ -84,8 +84,8 @@
     <div class="row">
       <div class="col-md-8 offset-md-2">
         <p><a href="{{ code_link }}">Link to our github repo</a></p>  
-      <!-- markdown html goes here -->
-      {{ article }}
+      <!-- markdown code -->
+      {{ content }}
 
 </div></div>
     </div>

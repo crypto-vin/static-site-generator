@@ -1,8 +1,8 @@
 {
     "title": "TechUpdates Hub",
-    "code_link": "",
+    "code_link": "https://github.com/crypto-vin/static-site-generator",
     "description": "My article",
     "author": "Vincent",
-    "url": "",
+    "url": "github.com/crypto-vin",
     "identifier" : ""
 }

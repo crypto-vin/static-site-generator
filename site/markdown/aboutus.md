@@ -1,10 +1,14 @@
 # About Us: 
 
 ## Our Mission: 
+
 ### Keeping You Up-to-Date on the Latest Technology and Gadgets
 
+
 ## Our Vision:
+
 ### To create a world of tech-savvy individuals who use the latest tech to make life more sustainable
+
 
 Welcome to techupdateshub.com, your go-to source for all things tech and gadgets. We're passionate about technology and its role in making our lives easier, more convenient, and more connected. That's why we've dedicated our website to bringing you the latest news, reviews, and updates on the latest technology and gadgets.
 
