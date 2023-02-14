@@ -23,8 +23,8 @@ Overall, Flask provides a lightweight and flexible foundation for generating sta
 
 # Requirements
 
-You will need to first install Python in your local PC
-If already installed, install the following modules:
+You will need to first install Python 3.8 or any more recent version in your local PC. If already installed, install the following modules:
+
 - click==8.1.3
 - colorama==0.4.6
 - Flask==2.2.2
@@ -36,6 +36,11 @@ If already installed, install the following modules:
 - Werkzeug==2.2.2
 - zipp==3.13.0
 
-Most of the modules above come with flask, hence you won't necessarily need to install them one bu one
+Most of the modules above come with flask, hence you won't necessarily need to install them one by one
 
 # How to Implement the Static Site Generator
+
+Below is a stepwise guide on how to implement and run the static site generator locally on your PC. I implemented it on Windows 10, but it can still be done on Mac and any Linux-based OS.
+
+- Clone or download and unzip this repository
+- Install Python if not installed
