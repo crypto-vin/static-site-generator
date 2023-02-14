@@ -15,12 +15,12 @@ Call us at +254 (713) 136-333. Our phone lines are open from Monday to Friday, 9
 Follow us on our social media channels:
 
 - Twitter: [@techupdateshub](https://twitter.com/techupdateshub)
-- Facebook: [techupdateshub](https://www.facebook.com/techupdateshub)
+- Facebook: [techgadgetupdateshub](https://www.facebook.com/techgadgetupdateshub)
 - Instagram: [@techupdateshub](https://www.instagram.com/techupdateshub)
 
 ## *Mailing Address*
 
-Send us mail at the following address:
+Send us a mail at the following address:
 
 GTC Center, Waiyaki
 

@@ -20,9 +20,9 @@ def about_us():
 def contact_us():
     return render_template('contactus.html')
 
-@app.route('/report')
+@app.route('/feedback')
 def report():
-    return render_template('report.html')
+    return render_template('feedback.html')
 
 if __name__ == '__main__':
     app.run(debug=True)
