@@ -1,16 +1,16 @@
-# About Us: 
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;About Us
 
 ## Our Mission: 
 
 ### Keeping You Up-to-Date on the Latest Technology and Gadgets
-
+</br>
 
 ## Our Vision:
 
 ### To create a world of tech-savvy individuals who use the latest tech to make life more sustainable
+</br>
 
-
-Welcome to techupdateshub.com, your go-to source for all things tech and gadgets. We're passionate about technology and its role in making our lives easier, more convenient, and more connected. That's why we've dedicated our website to bringing you the latest news, reviews, and updates on the latest technology and gadgets.
+At techupdateshub.com, we're passionate about technology and its role in making our lives easier, more convenient, and more connected. . That's why we've dedicated our website to bringing you the latest news, reviews, and updates on the latest technology and gadgets.
 
 Our team of experts and tech enthusiasts are always on the lookout for the latest and greatest technology and gadgets, and we take pride in bringing you the most in-depth and up-to-date information possible. Whether you're a tech professional or just someone who loves to stay on top of the latest trends, we have you covered.
 
@@ -23,9 +23,12 @@ At techupdateshub.com, we're committed to providing you with the best possible e
 
 # Our Team
 
-## Meet the Team Behind techupdateshub.com: Your Trusted Source for Technology and Gadget Updates
+## Meet the techupdateshub.com Team:
+## Your Trusted Source for Technology and Gadget Updates
 
-At techupdateshub.com, we're passionate about technology and its role in making our lives easier, more convenient, and more connected. Our team is made up of experts and tech enthusiasts who are dedicated to bringing you the latest news, reviews, and updates on the latest technology and gadgets.
+![Alt text](../static/img/team.jpg?raw=true "Title")
+
+Our team is made up of experts and tech enthusiasts who are dedicated to bringing you the latest news, reviews, and updates on the latest technology and gadgets.
 
 Each member of our team brings a unique set of skills and experience to the table, and together, we work to ensure that we're providing you with the best possible content and experience.
 
