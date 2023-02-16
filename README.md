@@ -59,5 +59,5 @@ Below is a screenshot of the home page as it should appear:
 
 This project is created by Vincent Munyalo. I would like to however give credit to the following individuals whose materials assisted me in coming up with the final program:
 
-- [Dmitry Semenov](dimsemenov.com)
+- [Dmitry Semenov](https://dimsemenov.com)
 - [Anthony](https://github.com/PrettyPrinted)
