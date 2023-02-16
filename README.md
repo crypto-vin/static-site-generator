@@ -36,7 +36,7 @@ You will need to first install Python 3.8 or any more recent version in your loc
 - Werkzeug==2.2.2
 - zipp==3.13.0
 
-Most of the modules above come with flask, hence you won't necessarily need to install them one by one
+Most of the modules above come with flask, hence you won't necessarily need to install them one by one.
 
 # How to Implement the Static Site Generator
 
@@ -47,7 +47,7 @@ Below is a stepwise guide on how to implement and run the static site generator 
 - Open the folder in a text editor, preferably VS Code.
 - Activate the virtual environment by running the command `venv\Scripts\activate.`
 - All the modules come preinstalled in the virtual environment. Run `pip freeze to check the installed modules`.
-- If any modules is missing, install by running the command `pip install -r requirements.txt`
+- If any modules is missing, install by running the command `pip install -r requirements.txt`.
 - Run the generator.py file to generate the static site files.
 - Navigate to the site folder and run main.py to start the app.
 - On your browser, access your localhost at `http://127.0.0.1:5000/` and checkout the generated static site!
