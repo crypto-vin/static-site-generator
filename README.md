@@ -52,6 +52,9 @@ Below is a stepwise guide on how to implement and run the static site generator 
 - Navigate to the site folder and run main.py to start the app.
 - On your browser, access your localhost at `http://127.0.0.1:5000/` and checkout the generated static site!
 
+Below is a screenshot of the home page as it should appear:
+![Alt text](./site/static/img/homepage.png?raw=true "Title")
+
 # Credit
 
 This project is created by Vincent Munyalo. I would like to however give credit to the following individuals whose materials assisted me in coming up with the final program:
